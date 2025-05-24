@@ -7,6 +7,10 @@
 ในส่วนของ Fontend จะมีส่วนที่ต้องแก้ไข คือตรง code ปุ่มกดที่เป็น tag <a></a> ให้แก้ในส่วนที่เป็น XXX
 และในส่วนของ service ก็แก้ในส่วนของ XXX เช่นกัน
 
-คู่มือการขอข้อมูล provider ผ่าน api
+
+ขั้นตอนการขอใช้ API Provider ID
+
+
+คู่มือการเชื่อม API Provider ID
 
 https://docs.google.com/document/d/1oRNVwrCe-StLwCCpKY-LsQzNzZ5qxd1z3m65uAJ3T-E/edit?tab=t.0
